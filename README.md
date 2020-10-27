@@ -35,6 +35,17 @@ yarn add @types/react-router-dom -D
 yarn add styled-components
 yarn add @types/styled-components -D
 ```
+### Biblioteca para trabalhar com cores: clarear, escurecer e deixar mais transparente e contraste das cores.
+
+```jsx
+yarn add polished
+```
+
+### Ícones
+
+```jsx
+yarn add react-icons
+```
 
 ![](the-end.gif)
 ---
