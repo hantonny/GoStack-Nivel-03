@@ -46,6 +46,15 @@ yarn add polished
 ```jsx
 yarn add react-icons
 ```
+### Para consumir uma API
+
+```jsx
+yarn add axios
+```
+
+### Acesso a API do GitHub
+
+[API GitHub](https://api.github.com/)
 
 ![](the-end.gif)
 ---
